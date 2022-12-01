@@ -77,5 +77,5 @@
 >기술 스택:  
 >YOLOv5 / Colab / Make Sense
 >  
->[프로젝트 상세 설명](주소) 참고
+>[프로젝트 상세 설명](https://github.com/SungwonDev/Plants_Image_Classification-Project) 참고
 ---
