@@ -61,7 +61,7 @@
 >기술 스택:  
 >Java / MariaDB / HTML5 / CSS3 / JS / JQuery / Apache Tomcat 9.0 /   
 >  
->[프로젝트 상세 설명][주소](https://github.com/SungwonDev/DaangnMarket-Web-Project) 참고
+>[프로젝트 상세 설명](https://github.com/SungwonDev/DaangnMarket-Web-Project) 참고
 ---
 
 ### 2. [식물 분류 AI]
