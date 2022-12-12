@@ -1,5 +1,5 @@
 # 이성원 포트폴리오
->이성원입니다.</br>
+>도전을 즐기는 성원입니다.</br>
 >
 </br>
 
@@ -67,7 +67,7 @@
 >기술 스택:  
 >Java / MariaDB / HTML5 / CSS3 / JS / JQuery / Apache Tomcat 9.0 /   
 >  
->[프로젝트 상세 설명]([주소](https://github.com/SungwonDev/DaangnMarket-Web-Project)) 참고
+>[프로젝트 상세 설명][주소](https://github.com/SungwonDev/DaangnMarket-Web-Project) 참고
 ---
 
 ### 2. [식물 분류 AI]
@@ -77,5 +77,5 @@
 >기술 스택:  
 >YOLOv5 / Colab / Make Sense
 >  
->[프로젝트 상세 설명](https://github.com/SungwonDev/DaangnMarket-Web-Project) 참고
+>[프로젝트 상세 설명](https://github.com/SungwonDev/Plants_Image_Classification-Project) 참고
 ---
