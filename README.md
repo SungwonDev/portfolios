@@ -61,7 +61,7 @@
 >기술 스택:  
 >Java / MariaDB / HTML5 / CSS3 / JS / JQuery / Apache Tomcat 9.0 /   
 >  
->[프로젝트 상세 설명](https://github.com/SungwonDev/DaangnMarket-Web-Project) 참고
+>[프로젝트 상세 설명](https://github.com/SungwonDev/DaangnMarket_Web_Project) 참고
 ---
 
 ### 2. [식물 분류 AI]
@@ -71,5 +71,15 @@
 >기술 스택:  
 >YOLOv5 / Colab / Make Sense
 >  
->[프로젝트 상세 설명](https://github.com/SungwonDev/Plants_Image_Classification-Project) 참고
+>[프로젝트 상세 설명](https://github.com/SungwonDev/Plants_Image_Classification_Project) 참고
+---
+
+### 3. [커뮤티니 토이 프로젝트]
+>커뮤니티토이프로젝트(개인 프로젝트)  
+>개발 기간: 2022. 12. 10. ~  
+>  
+>기술 스택:  
+>Node.js / MongoDB
+>  
+>[프로젝트 상세 설명](https://github.com/SungwonDev/Community_Projectss) 참고
 ---
