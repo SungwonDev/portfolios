@@ -84,8 +84,8 @@
 >[프로젝트 상세 설명](https://github.com/SungwonDev/Community_Projectss) 참고
 ---
 
-### 3. [커뮤티니 토이 프로젝트]
->커뮤니티토이프로젝트(개인 프로젝트)  
+### 4. [TodoList-Server 토이 프로젝트]
+>TodoList-Server 토이 프로젝트(개인 프로젝트)  
 >개발 기간: 2023. 2. 22. ~  
 >  
 >기술 스택:  
